@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
         - name: my-app
-          image: strukovsergei/weatherapp:4a5e5fd25a8d3d9aea7b7837581154124652dfec
+          image: strukovsergei/weatherapp:bc095e8b3db6f6b186fb3f4a6dbc54601efb18ee
